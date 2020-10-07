@@ -1,3 +1,3 @@
-# Antes de tudo, baixem o módulo pytube: 
+# Antes de tudo, baixe o módulo pytube: 
 
 * pip install pytube3
