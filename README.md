@@ -1,2 +1,2 @@
 # Projetos-PYTHON
-Utilizando python na construção de uns scripts legais!
+Utilizando python na construção de alguns scripts legais!
